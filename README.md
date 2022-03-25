@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on the final project for my coding bootcamp at UW.
-- 🌱 I’m currently learning the 'R' in the MERN stack--React!
+- 🔭 I’m currently working on some personal projects.
+- 🌱 I’m currently playing around in React.
 - 👯 I’m looking to collaborate on more projects that require React and MongoDB.
 - 💬 Ask me about photography, MTG, and how I stumbled into 2007 Kanye West.
 - 😄 Pronouns: he/him.
