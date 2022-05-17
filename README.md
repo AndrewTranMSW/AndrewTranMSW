@@ -7,9 +7,9 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I actually like pineapple on my pizza, and you can too if you had a heart.
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewtranmsw&show_icons=true&theme=dracula)](https://github.com/andrewtranmsw/github-readme-stats)
+<!-- [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewtranmsw&show_icons=true&theme=dracula)](https://github.com/andrewtranmsw/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtranmsw&layout=compact&theme=dracula)](https://github.com/andrewtranmsw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtranmsw&layout=compact&theme=dracula)](https://github.com/andrewtranmsw/github-readme-stats) -->
 
 <!--
 **AndrewTranMSW/andrewtranmsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
