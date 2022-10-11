@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I'm onboarding in my new role with LM.
+- 🔭 I'm working on an agile development team creating awesome things with code at LM.
 - 🌱 I’m currently playing around in React.
 - 👯 I’m looking to collaborate on more projects that require React and MongoDB.
 - 💬 Ask me about photography, MTG, and how I stumbled into 2007 Kanye West.
